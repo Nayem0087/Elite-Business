@@ -1,0 +1,11 @@
+/*  */
+@media screen and (max-width: 576px) {
+   .projects{
+    flex-direction: column;
+   }
+   .footer{
+    grid-template-columns: auto;
+    text-align: center;
+    justify-items: center;
+   }
+}
